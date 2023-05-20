@@ -1,3 +1,22 @@
+---Title :- Music Store Analysis
+---Created by :- Amit Kumar
+---Date :- 20-06-2023
+---Tool used:- PostgreSQL
+---Schema- Music Store Database
+
+/*
+Description :-
+This is a Store based SQL Project. This database contains 11 tables.
+Overall there are around 9000 rows in all the tables
+
+Approach :-
+Understanding the dataset
+Creating business questions
+Analyzing with SQL queries
+
+*/
+
+
 /*Q1: Who is the senior most employee based on job title? */
 
 SELECT title, last_name, first_name 
